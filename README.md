@@ -1,4 +1,4 @@
-# simon the game
+# Simon - the game
 
 The rules of the game are simple:
 
